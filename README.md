@@ -13,5 +13,5 @@ Currently enhancing my skills through a technical program in software developmen
 
 - 🔭 I’m currently working on strengthening my skills in software development.
 - 🌱 I’m currently learning advanced programming techniques, frameworks, and tools.  
-- 🎯 I’m interested in collaborating on projects related to software development, data analysis, cybersecurity or mechatronics.
+- 🎯 I’m interested in collaborating on projects related to Software Development, Data Analysis, Cybersecurity or Mechatronics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/laura-barona-saavedra/)
