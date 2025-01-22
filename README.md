@@ -6,7 +6,7 @@
   <img src="https://i.imgur.com/bOgkdrY.png" alt="Banner" width="800">
 </div>
 
-## Sobre mí
+## About Me
 Versatile professional with a solid foundation in mechatronics engineering, complemented by basic knowledge in cybersecurity and data analysis. Familiar with analyzing datasets to support decision-making and enhance efficiency, as well as applying foundational cybersecurity measures to protect systems and data.
 
 Currently enhancing my skills through a technical program in software development, aiming to leverage my interdisciplinary background to address challenges and contribute to innovative solutions.
