@@ -6,12 +6,28 @@
   <img src="https://i.imgur.com/bOgkdrY.png" alt="Banner" width="800">
 </div>
 
-## About Me
-Versatile professional with a solid foundation in mechatronics engineering, complemented by basic knowledge in cybersecurity and data analysis. Familiar with analyzing datasets to support decision-making and enhance efficiency, as well as applying foundational cybersecurity measures to protect systems and data.
+<div align="center">
 
-Currently enhancing my skills through a technical program in software development, aiming to leverage my interdisciplinary background to address challenges and contribute to innovative solutions.
+[🌐 Portfolio](https://portfolio-laura-barona-saavedra.vercel.app/) •
+[💼 LinkedIn](https://www.linkedin.com/in/laura-barona-saavedra-backend-frontend-software-developer/) •
+[📧 Email](mailto:laura.barona@uao.edu.co)
 
-- 🔭 I’m currently working on strengthening my skills in software development.
-- 🌱 I’m currently learning advanced programming techniques, frameworks, and tools.  
-- 🎯 I’m interested in collaborating on projects related to Software Development, Data Analysis, Cybersecurity or Mechatronics.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/laura-barona-saavedra/)
+</div>
+
+## 👩‍💻 About Me
+
+Software Developer with professional experience building backend applications using **Java**, **Spring Boot**, and **microservices architecture**. I have contributed to enterprise applications, REST APIs, cloud-based solutions on **AWS**, and collaborative Agile teams.
+
+I also have experience developing frontend applications with **Angular**, **React**, and **Next.js**, allowing me to understand the complete software development lifecycle and build scalable, maintainable solutions.
+
+I hold a degree in **Mechatronics Engineering** and I'm currently pursuing a **Software Development Technologist** degree, continuously expanding my knowledge of software architecture, cloud technologies, and modern development practices.
+
+* 💻 **Backend:** Java, Spring Boot, Spring Data JPA, REST APIs, Microservices
+* 🌐 **Frontend:** Angular, React, Next.js, TypeScript, JavaScript
+* ☁️ **Cloud & Tools:** AWS, Git, Docker, MySQL, MongoDB
+* 🌱 **Currently learning:** Software Architecture, Cloud Computing, and Backend Best Practices
+* 🤝 **Open to collaborate on:** Java Backend, Full Stack, and Open Source projects
+* 🌐 **Portfolio:** [https://portfolio-laura-barona-saavedra.vercel.app/]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/laura-barona-saavedra-backend-frontend-software-developer/]
+* 📫 **Email:** [mailto:laura.barona@uao.edu.co]
+
