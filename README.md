@@ -30,4 +30,3 @@ I hold a degree in **Mechatronics Engineering** and I'm currently pursuing a **S
 * 🌐 **[Portfolio](https://portfolio-laura-barona-saavedra.vercel.app/)** 
 * 💼 **[LinkedIn](https://www.linkedin.com/in/laura-barona-saavedra-backend-frontend-software-developer/)** 
 * 📫 **[Email](mailto:laura.barona@uao.edu.co)**
-** 
