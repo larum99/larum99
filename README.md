@@ -27,7 +27,7 @@ I hold a degree in **Mechatronics Engineering** and I'm currently pursuing a **S
 * ☁️ **Cloud & Tools:** AWS, Git, Docker, MySQL, MongoDB
 * 🌱 **Currently learning:** Software Architecture, Cloud Computing, and Backend Best Practices
 * 🤝 **Open to collaborate on:** Java Backend, Full Stack, and Open Source projects
-* 🌐 **Portfolio:** (https://portfolio-laura-barona-saavedra.vercel.app/)
+* 🌐 **[Portfolio](https://portfolio-laura-barona-saavedra.vercel.app/)** 
 * 💼 **LinkedIn:** (https://www.linkedin.com/in/laura-barona-saavedra-backend-frontend-software-developer/)
 * 📫 **Email:** (mailto:laura.barona@uao.edu.co)
 
